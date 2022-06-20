@@ -3,18 +3,20 @@
     "taeg":{
       "used":"9,0%",
       "new":"11,8%"
+    },
+    "date":{
+      "year":"2022",
+      "quarter":"2"
     }
-	"date":{
-	  "year":"2022",
-	  "quarter":"2"
   },
   {
     "taeg":{
       "used":"8,8%",
       "new":"11,7%"
+    },
+    "date":{
+      "year":"2022",
+      "quarter":"3"
     }
-	"date":{
-	  "year":"2022",
-	  "quarter":"3"
   }
 ]
